@@ -2,6 +2,7 @@
 **`💻 Lua Dev | 📚 Learning: Python`**
 
 Olá! Me chamo Daniel. 👋
+Tenho 13 anos! 😀
 
 Sou desenvolvedor **Lua** focado em lógica de programação e já domino o básico para criar jogos no Terminal. Atualmente, estou aprendendo mais sobre Lua e, futuramente, quero aprender **Python**.
 
