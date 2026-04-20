@@ -3,7 +3,7 @@
 
 Olá! Me chamo Daniel. 👋
 <br/>
-Tenho 13 anos! 😀
+Tenho **13** anos! 😀
 
 Sou desenvolvedor **Lua** focado em lógica de programação e já domino o básico para criar jogos no Terminal. Atualmente, estou aprendendo mais sobre Lua e, futuramente, quero aprender **Python**.
 
