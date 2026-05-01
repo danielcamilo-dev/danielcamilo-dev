@@ -17,7 +17,7 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
             src="https://custom-icon-badges.demolab.com/github/stars/danielcamilo-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/danielcamilo-dev?tab=followers">
+    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
