@@ -26,6 +26,18 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
     </a>
 </p>
 
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
+/>
+
+<br/>
 
 ### 📊 Estatísticas
 
@@ -45,19 +57,6 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcamilo-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
-/>
-
-<br/>
 
 </p>
 
