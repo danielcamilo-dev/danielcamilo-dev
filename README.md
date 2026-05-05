@@ -42,7 +42,7 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
 ### 📊 Estatísticas
 
 
-<!-- <p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -58,7 +58,8 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcamilo-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p> -->
+</p>
+
 
 
 
