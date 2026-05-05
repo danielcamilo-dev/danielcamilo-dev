@@ -42,7 +42,7 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
 ### 📊 Estatísticas
 
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -58,8 +58,12 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcamilo-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p> -->
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielcamilo-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcamilo-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200" alt="GitHub Stats" />
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
