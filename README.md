@@ -60,14 +60,6 @@ Sou desenvolvedor **Lua** focado em lógica de programação e já domino o bás
 
 </p> -->
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcamilo-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" height="190" alt="Estatísticas do GitHub de danielcamilo-dev" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcamilo-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" height="190" alt="Linguagens mais usadas" />
-</div>
-
 
 
 <picture align="center">
