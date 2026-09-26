@@ -1,13 +1,13 @@
 # 🧑‍💻Daniel Camilo
-**`💻 Lua Dev | 📚 Learning: Python`**
+**`🌘 Lua Junior | 🐍 Python Junior`**
 
 Olá! Me chamo Daniel. 👋
 <br/>
 Tenho **13** anos! 😀
 
-Sou desenvolvedor **Lua** focado em lógica de programação e já domino o básico para criar jogos no Terminal. Atualmente, estou aprendendo mais sobre Lua e, futuramente, quero aprender **Python**.
+Sou desenvolvedor **Python** focado em lógica de programação e já domino o básico para criar projetos no Terminal. Atualmente, estou aprendendo mais sobre Python e, futuramente, quero aprender **CSS**.
 
-🚀 Minha meta: Evoluir para me tornar Full Stack.
+🚀 Minha meta: Evoluir para me tornar **Back End** Senior.
 
 <p align="left">
     <a href="https://github.com/danielcamilo-dev?tab=repositories&sort=stargazers">
